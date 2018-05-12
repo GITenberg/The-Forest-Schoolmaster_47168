@@ -1,9 +1,13 @@
 _repo: The-Forest-Schoolmaster_47168
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Skinner, Frances E.
     gutenberg_agent_id: '44168'
     url: http://www.gutenberg.org/2009/agents/44168
+covers:
+- cover_type: archival
+  image_path: 47168-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Rosegger, Peter
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7090
     wikipedia: http://en.wikipedia.org/wiki/Peter_Rosegger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47168#The-Forest-Schoolmaster
 gutenberg_issued: '2014-10-22'
 gutenberg_type: Text
 identifiers:
